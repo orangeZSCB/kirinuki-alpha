@@ -178,7 +178,7 @@ npm run dev
 
 ## 许可证
 
-MIT
+[MSDT](https://github.com/orangeZSCB/Mandatory-Source-Disclosure-License)
 
 ## 致谢
 
