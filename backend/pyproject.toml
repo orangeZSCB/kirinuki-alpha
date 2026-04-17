@@ -1,0 +1,9 @@
+[project]
+name = "kirinuki-backend"
+version = "0.1.0"
+description = "KiriNuki - VTuber 直播切片辅助系统后端"
+requires-python = ">=3.11"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

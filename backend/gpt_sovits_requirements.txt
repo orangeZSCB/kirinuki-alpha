@@ -1,0 +1,22 @@
+# GPT-SoVITS API 依赖
+# 核心依赖
+torch>=2.0.0
+torchaudio
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+pydantic>=2.0.0,<=2.10.6
+
+# 音频处理
+librosa==0.10.2
+soundfile>=0.12.1
+scipy
+numpy<2.0
+numba
+
+# Faster Whisper
+faster-whisper>=1.0.3
+ctranslate2>=4.0,<5
+
+# 其他工具
+ffmpeg-python
+tqdm
